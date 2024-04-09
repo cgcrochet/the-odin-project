@@ -1,2 +1,2 @@
 # the-odin-project
-This repository holds all of my implementations of The Odin Project's assignments.
+This repo holds my implementations of The Odin Project's assignments.
